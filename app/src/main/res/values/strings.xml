@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinTextRecognition</string>
+
+    <string name="loading">Loading</string>
+    <string name="no_text">No text recognized</string>
+    <string name="read">Read</string>
+</resources>
